@@ -18,6 +18,10 @@ Drag and Drop Shapes is a simple interactive web application that allows users t
 
 To use Drag and Drop Shapes, simply open the index.html file in your web browser. The application will load in the browser, and you can begin dragging and dropping shapes immediately.
 
+## JSFiddle
+
+You can also view Drag and Drop Shapes on JSFiddle [here](https://jsfiddle.net/dzulsyakimin/ksao65mv/187/).
+
 ## Contributing
 
 Contributions to Drag and Drop Shapes are always welcome. If you would like to contribute, please fork the repository and submit a pull request with your changes.
