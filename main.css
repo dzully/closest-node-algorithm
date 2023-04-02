@@ -1,0 +1,45 @@
+#screen {
+  width: 700px;
+  height: 400px;
+  border: 1px solid black;
+  position: relative;
+}
+
+.circle,
+.ellipse,
+.square {
+  position: absolute;
+  cursor: move;
+}
+
+.circle {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: red;
+  left: 50px;
+  top: 50px;
+}
+
+.ellipse {
+  width: 200px;
+  height: 100px;
+  border-radius: 50%;
+  background-color: blue;
+  left: 250px;
+  top: 100px;
+}
+
+.square {
+  width: 100px;
+  height: 100px;
+  background-color: green;
+  left: 500px;
+  top: 200px;
+}
+
+.second {
+  background-color: yellow;
+  left: 200px;
+  top: 200px;
+}
